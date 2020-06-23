@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="WumpusWorld:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WumpusWorld_jar</output-path>
+    <root id="root">
+      <element id="archive" name="WumpusWorld.jar">
+        <element id="module-output" name="WumpusWorld" />
+      </element>
+    </root>
+  </artifact>
+</component>
